@@ -3,7 +3,6 @@ package org.example;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import org.testng.annotations.Test;
-import static org.hamcrest.Matchers.*;
 
 import static org.hamcrest.Matchers.equalTo;
 
