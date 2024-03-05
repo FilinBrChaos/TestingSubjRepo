@@ -1,9 +1,9 @@
 {
 	"info": {
-		"_postman_id": "a5c848ed-a2b5-4d35-9c1b-94f86b8f9eb6",
-		"name": "TestingCollection",
+		"_postman_id": "8b218f71-0db2-4a90-8f66-1280117ae058",
+		"name": "API Tests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
-		"_exporter_id": "21990187"
+		"_exporter_id": "15994809"
 	},
 	"item": [
 		{
@@ -82,6 +82,14 @@
 						"booking"
 					]
 				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get all book ids",
+			"request": {
+				"method": "GET",
+				"header": []
 			},
 			"response": []
 		}
